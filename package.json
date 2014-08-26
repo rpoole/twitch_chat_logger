@@ -1,0 +1,13 @@
+{
+	"name": "twitch_chat_reader",
+	"version": "0.1.0",
+	"description": "Twitch chat parser for twitchpasta.com",
+	"dependencies": {
+		"node-twitch-irc": "1.1.1"
+	},
+	"main": "index.js",
+	"devDependencies": {},
+	"scripts": {},
+	"repository": {},
+	"author": "Robert Poole <rbpl4328@gmail.com>"
+}
